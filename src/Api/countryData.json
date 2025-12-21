@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "8,262,666,600",
+    "interestingFact": "Global population count"
+  },
+  {
+    "id": 2,
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": 241499431,
+    "interestingFact": "Home of K2"
+  },
+  {
+    "id": 3,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428627663,
+    "interestingFact": "Largest democracy worldwide"
+  },
+  {
+    "id": 4,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 339996563,
+    "interestingFact": "World’s largest economy"
+  },
+  {
+    "id": 5,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125836021,
+    "interestingFact": "Technology-driven nation"
+  },
+  {
+    "id": 6,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83294633,
+    "interestingFact": "Engineering excellence hub"
+  },
+  {
+    "id": 7,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67736802,
+    "interestingFact": "Global financial center"
+  },
+  {
+    "id": 8,
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 36947025,
+    "interestingFact": "Birthplace of Islam"
+  },
+  {
+    "id": 9,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 40097761,
+    "interestingFact": "Most lakes worldwide"
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60414495,
+    "interestingFact": "Three capital cities"
+  },
+  {
+    "id": 11,
+    "countryName": "Turkey",
+    "capital": "Ankara",
+    "population": 85341241,
+    "interestingFact": "Europe meets Asia"
+  },
+  {
+    "id": 12,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "Great Wall landmark"
+  }
+]

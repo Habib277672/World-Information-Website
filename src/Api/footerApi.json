@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Sukkur, Sindh, Pakistan"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "03123456789"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "habibqureshi54321@gmail.com"
+  }
+]
