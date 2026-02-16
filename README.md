@@ -1,16 +1,30 @@
-# React + Vite
+🌍 World Information Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React JS application that provides detailed information about countries worldwide. Users can search countries, filter by region, and sort in ascending or descending order. The app fetches real-time data using Axios and provides smooth navigation with React Router.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-Time Data – Fetches up-to-date country information via Axios.
 
-## React Compiler
+Search Functionality – Find countries by name instantly.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Filter by Region – Browse countries by continent or region.
 
-## Expanding the ESLint configuration
+Sort Countries – Ascending/descending sorting by name, population, or other criteria.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive Design – Works seamlessly on desktops, tablets, and mobile devices.
+
+Client-Side Routing – Smooth navigation between pages using React Router.
+
+Error Handling & Loading States – Handles API errors gracefully and shows loading indicators.
+
+Technologies Used
+
+React JS – Component-based architecture for modular UI.
+
+React Router – Client-side routing for multi-page experience.
+
+Axios – For fetching and managing API data efficiently.
+
+CSS – For styling and responsive design.
+"# World-Information-Website" 
