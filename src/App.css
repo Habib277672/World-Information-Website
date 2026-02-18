@@ -15,6 +15,7 @@ html {
 
 body {
   background-color: black;
+  scroll-behavior: smooth;
 }
 
 h1,
@@ -184,7 +185,9 @@ nav ul {
 
     overflow: hidden; /* necessary for height animation */
     max-height: 0; /* hidden initially */
-    transition: max-height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    transition:
+      max-height 0.5s ease-in-out,
+      opacity 0.5s ease-in-out;
     opacity: 0; /* start invisible */
   }
 

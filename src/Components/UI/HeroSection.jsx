@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { FaArrowRightFromBracket } from "react-icons/fa6";
+import worldImage from "../../assets/Images/world.png";
 
 export const HeroSection = () => {
   return (
@@ -22,11 +23,7 @@ export const HeroSection = () => {
           </NavLink>
         </div>
         <div className="hero-image">
-          <img
-            src="/Images/world.png"
-            alt="Hero-Image"
-            className="banner-image"
-          />
+          <img src={worldImage} alt="Hero-Image" className="banner-image" />
         </div>
       </div>
     </main>
